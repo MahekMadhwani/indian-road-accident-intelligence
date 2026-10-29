@@ -16,7 +16,6 @@ to make road safety patterns easier to explore.
 - Microsoft Power BI Desktop
 
 ## Dashboard Preview
-![Dashboard Overview]
 Attached above
 
 ## Project File
