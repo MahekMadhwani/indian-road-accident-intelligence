@@ -29,6 +29,9 @@ Download the file and open it using Power BI Desktop.
 - Source: [Insert your original dataset source]
 
 ## Key Findings
-- [Add an important finding from your dashboard.]
-- [Add another finding supported by your data.]
-- [Add a third finding supported by your data.]
+
+- **Accident Trends:** Road accidents peaked in 2022 at approximately 213K cases, followed by a gradual decline in 2023 and 2024.
+
+- **State-wise Analysis:** Tamil Nadu recorded the highest number of road accidents, followed by Madhya Pradesh, Uttar Pradesh, Karnataka, and Kerala.
+
+- **Overall Impact:** The dashboard recorded approximately 824.5K road accidents, 3,524.2K persons injured, and 1,345.1K persons killed across the 2021–2024 period, according to the displayed KPI metrics.
