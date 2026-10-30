@@ -24,9 +24,23 @@ Download the Power BI report:
 
 Download the file and open it using Power BI Desktop.
 
-## Dataset
-- Coverage: 2021–2024
-- Source: [Insert your original dataset source]
+## Data Source
+
+**Source:** Ministry of Road Transport & Highways (MoRTH), Government of India.
+
+**Report:** Road Accidents in India 2024.
+
+**Department:** Transport Research Wing.
+
+**Coverage:** 2021–2024.
+
+The dataset contains State/UT-wise information on road accidents, persons killed, persons injured, accident severity, collision types, and road features.
+
+The data is based on information collected from Police Departments across Indian States and Union Territories.
+
+**Source Links:**
+- [MoRTH – Official Website](https://morth.gov.in/)
+- [Road Accidents in India 2024 – Report and Dataset](https://data.opencity.in/dataset/road-accidents-in-india-2024)
 
 ## Key Findings
 
